@@ -5,7 +5,7 @@
 
 <table>
   
-<tr><td>
+<tr><td style="width: 100%;">
 
 ### 💻 About Me
 
@@ -19,7 +19,7 @@
 
 </td></tr>
 
-<tr><td>
+<tr><td style="width: 100%;">
 
 ## 🏢 Work Experience
 
