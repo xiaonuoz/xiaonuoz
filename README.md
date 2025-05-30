@@ -5,7 +5,7 @@
 
 <table>
   
-<tr><td style="width: 100%;">
+<tr><td>
 
 ### 💻 About Me
 
@@ -13,13 +13,14 @@
 <p>&emsp;&emsp;目前正在学习K8S、Solidity，梦想成为头发茂盛的大佬  :)</p>
 <p>&emsp;&emsp; Blog：<a href="https://xiaonuoz.github.io/" target="_blank"> Xiaonuo's blog </a></p>
 <p>&emsp;&emsp;目前是Golang程序员，熟悉Gin、Gorm、Shell、Docker......</p>
+<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
 </td></tr>
 
-<tr><td style="width: 100%;">
+<tr><td>
 
 ## 🏢 Work Experience
 
