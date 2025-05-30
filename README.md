@@ -1,16 +1,13 @@
 
-<div align="center">
+<div align="left">
 
 [![Xiaonuoz's GitHub stats](https://github-immortality.vercel.app/api?username=xiaonuoz)](https://github.com/xiaonuoz)
 
-# 🙋 Hello
 <table>
   
 <tr><td>
 
 ### 💻 About Me
-
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
 
 <p>&emsp;&emsp;嗨，我是笑傩。喜欢编程、读书、游戏。</p>
 <p>&emsp;&emsp;目前正在学习K8S、Solidity，梦想成为头发茂盛的大佬  :)</p>
